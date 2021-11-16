@@ -52,7 +52,7 @@ A. Algoritma Program Untuk Menampilkan Bilangan Terbesar Dari N Buah Data Yang D
     Setelah anda menegetahui Algoritma Dalam sebuah Program Maka Langkah Berikutnya Kita Membuat Flowchartnya. Berikut ini Flowchart Program
 
 B. Flowchart Program
-    ![gambat1](flowchart2)
+    ![gambar1](flowchart2)
 
 C. Program Untuk Menampilkan Bilangan Terbesar Dari N Buah Data Yang Dinputkan
     ![gambar1](program2)
@@ -91,4 +91,8 @@ A. Algoritma Program Untuk Menghitung Jumlah Laba Hasil Investasi Seorang Pengus
     8.  selesai
 
 B.Flowchart Program
-    ![txt](flowchart3)
+    ![word](flowchart3)
+
+C.Program Untuk Menghitung Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan
+    ![gambar1](program3)
+

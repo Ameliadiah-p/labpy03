@@ -91,4 +91,4 @@ A. Algoritma Program Untuk Menghitung Jumlah Laba Hasil Investasi Seorang Pengus
     8.  selesai
 
 B.Flowchart Program
-    ![word1](flowchart3)
+    ![txt](flowchart3)

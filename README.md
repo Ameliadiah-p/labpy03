@@ -8,6 +8,7 @@ Mapel   : Bahasa Pemrograman
 Latihan1.py
 
 Program Sederhana Untuk Menampilkan N Bilangan Acak Yang Lebih Kecil Dari 0.5
+
 A. Algoritma Program Untuk Menampilkan N Bilangan Acak Yang Lebih Kecil Dari 0.5
     1.  Masukan Jumlah N pengulangan
     2.  Proses pengulangan sesuai jumlah pengulangan yang dinputkan
@@ -17,10 +18,10 @@ Setelah anda menegetahui Algoritma Dalam sebuah Program Maka Langkah Berikutnya 
 Berikut ini Flowchart Program
 
 B.  Flowchart Program
-    ![gambar1](flowchart1)
+![flowchart1](https://user-images.githubusercontent.com/92660371/142029589-2c8404f4-ee12-41a5-be52-59aa689cbd67.png)
 
 C.  Program Untuk Menampilkan N Bilangan Acak Yang Lebih Kecil Dari 0.5
-    ![gambar1](program1)
+![program1](https://user-images.githubusercontent.com/92660371/142029652-87f7b09c-a8c6-4798-8fce-e52569d09ae5.png)
 
 ==> Urutan Pembuatan Program
     1.  Ketikan Program print ('Tampilkan n Bilangan Acak yang Lebih Kecil Dari 0.5')
@@ -52,10 +53,10 @@ A. Algoritma Program Untuk Menampilkan Bilangan Terbesar Dari N Buah Data Yang D
     Setelah anda menegetahui Algoritma Dalam sebuah Program Maka Langkah Berikutnya Kita Membuat Flowchartnya. Berikut ini Flowchart Program
 
 B. Flowchart Program
-    ![gambar1](flowchart2)
+    ![flowchart2](https://user-images.githubusercontent.com/92660371/142029609-65aaa4a4-fa25-485b-98be-2fe4db2074d1.png)
 
 C. Program Untuk Menampilkan Bilangan Terbesar Dari N Buah Data Yang Dinputkan
-    ![gambar1](program2)
+  ![program2](https://user-images.githubusercontent.com/92660371/142029681-fb3e0c44-4c52-43f3-a7f9-d0d137b62cb5.png)
 
 ==> Urutan Pembuatan Program
     1.  Ketikan Program print ('Menampilkan Bilangan Terbesar Dari N Buah Data Yang Diinputkan')
@@ -91,8 +92,8 @@ A. Algoritma Program Untuk Menghitung Jumlah Laba Hasil Investasi Seorang Pengus
     8.  selesai
 
 B.Flowchart Program
-    ![word](flowchart3)
+   [flowchart3.docx](https://github.com/Ameliadiah-p/labpy03/files/7548306/flowchart3.docx)
 
 C.Program Untuk Menghitung Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan
-    ![gambar1](program3)
+  ![program3](https://user-images.githubusercontent.com/92660371/142029703-4c79d5e5-9c19-4191-9a88-fd9546f0eccd.png)
 

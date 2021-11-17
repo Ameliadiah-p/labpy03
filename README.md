@@ -97,3 +97,24 @@ B.Flowchart Program
 C.Program Untuk Menghitung Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan
   ![program3](https://user-images.githubusercontent.com/92660371/142029703-4c79d5e5-9c19-4191-9a88-fd9546f0eccd.png)
 
+==> Urutan Pembuatan Program
+    1.  Ketikan Program print ('Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan')
+    2.  Ketikan Program x=100000000
+    3.  Ketikan Program print (" Modal Awal:",x)
+    4.  Ketikan Program a=0x, b=0x, c=0.01x, d=0.01x, e=0.05x, f=0.05x, g=0.05x, h=0.03x
+    5.  Ketikan Program y=[a,b,c,d,e,f,g,h]
+    6.  Ketikan Program For i in range (len (y))
+    7.  Ketikan Program Print (“laba bulan ke-“,i+1,”sebesar:” ,y[i])
+    8.  Ketikan Program Z= (a+b+c+d+e+f+g+h)
+    9.  Ketikan Program Print (“jumlah laba selama 8 bulan adalah:”)
+
+==> Penjelasan Alur Program
+    1.  print ('Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan') 
+        Untuk Menampilkan kalimat Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan
+    2.  x=100000000 Dengan pemisalan atau dideklarasikan x adalah 100000000
+    3.  print (" Modal Awal:",x) Menampilkan kalimat Modal Awal : dan data yang berisi di x yaitu 100000000
+        a=0x, b=0x, c=0.01x, d=0.01x, e=0.05x, f=0.05x, g=0.05x, h=0.03x Untuk Mendeklarasikan presentase laba tiap bulan dan di kali dengan x atau data inputan modal investasi yaitu 100000000
+    4.  y=[a,b,c,d,e,f,g,h] untuk menentukan syarat y= yang berisi a,b,c,d,e,f,g,h
+    5.  For i in range (len (y)) Print (“laba bulan ke-“,i+1,”sebesar:” ,y[i]) 
+        untuk perulangan data dengan isi data yaitu Ydengan menampilkan urutan laba perbulan sesuai range yang di tentukan dengan hasil ke untukan yang di inpput dari data Y
+    6.  Z= (a+b+c+d+e+f+g+h) Print (“jumlah laba selama 8 bulan adalah:”) Z berisi data penjumlahan data angka yang ada didalam kode a,b,c,d,e,f,g,h yang akan di tampilakan atau dicetak di jumlah laba selama 8 bulan
